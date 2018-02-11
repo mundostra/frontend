@@ -1,3 +1,3 @@
 # frontend
 ## url structure
-- frontend/welcome
+- http://localhost:8080/frontend/welcome
